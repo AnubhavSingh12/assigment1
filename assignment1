@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> html css assignment1 </title>
+       </head>
+       <body bgcolor="pink">
+
+             hello,
+             I'm Lilly v
+            <h1 >My 1st assignment is about,my favorite personality </h1>
+            <h2 style="text-align: center;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Selena Gomez</h2>
+
+            <p>
+                     Selena Marie Gomez (/səˈliːnə ˈɡoʊmɛz/ sə-LEE-nə GOH-mez; born July 22, 1992) is an American singer and actress.[1] Born and raised in Texas,
+                Gomez began her career by appearing on the children's television series Barney & Friends (2002–2004). In her teens, she rose to prominence for her role as Alex Russo in the Disney Channel television series Wizards of Waverly Place (2007–2012).
+            </p>
+           <center>
+            <img src="https://cdn.britannica.com/81/160781-050-8B7BF24D/Selena-Gomez-2010.jpg"height="500"width="400">
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_W3E0BIb43J7_ME-xCNnViImMixR8Qkc62rbpDH9B5sdfnUoLCldktl8QU16WqLKuWs&usqp=CAU">
+        </center>
+
+            <p>
+                      Gomez's first solo album, Stars Dance (2013), released the music video for "Come & Get It", which won the Best Pop Video at the 2013 MTV Video Music Awards, and "Slow Down".[5] Having spent seven years with Hollywood Records,
+                 Gomez signed a recording contract with Interscope Records in 2014.
+                </p>
+
+                <center>
+                    ><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2021_31/1757565/selena-gomez-kb-square-210804.jpg"height="200">
+                 <img src="https://api.time.com/wp-content/uploads/2020/09/time-100-Selena-Gomez.jpg?w=824&quality=70"height="350">
+                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/191125_Selena_Gomez_at_the_2019_American_Music_Awards_%28cropped%29.png"height="350">
+
+            <p>
+                           Selena gone through many struggles in her life.but she overcame with hope and confidence.she is not only a singer or actoress,she is a good human.
+                she contributed many charities ,champigns for girls and poor.i like her very much.she is admirable person.
+            </p>    
+
+</body>
+</html> 
